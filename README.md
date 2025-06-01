@@ -1,9 +1,3 @@
-
-
-Thank you for the opportunity to work on this assignment! -->
-
-
-
 This project is a CRM Campaign Management System that helps marketing teams generate personalized promotional messages for their users based on campaign details and targeting rules. It leverages Google's Gemini AI to dynamically create friendly, concise messages tailored for each customer segment.
 
 🧠 Features
@@ -20,6 +14,9 @@ Backend: Node.js + Express
 AI Integration: Gemini API (Google Generative Language API)
 Language: TypeScript
 Database: MongoDB
+
+#Live Website 
+https://crm-xeno-omega.vercel.app/
 
 🚀 Getting Started
 ⚙️ Frontend Setup
@@ -55,7 +52,6 @@ GEMINI_API_KEY=your-gemini-api-key
 Restart both frontend and backend after setting up the environment variables.
 
 API Documentation
-
 The backend API is documented using Swagger (OpenAPI). Once the backend server is running, you can access the Swagger UI at:
 `http://localhost:5001/api-docs` (or your backend URL + `/api-docs`)
 This interface allows you to view all available API endpoints, their request/response schemas, and test them directly.
@@ -83,7 +79,7 @@ Edit
 .env           --> Environment variables (not committed)
 
 
-Sure! Here are the headings in simple text format:
+
 
 * Limitation
   * Limited message customization
@@ -111,7 +107,7 @@ Sure! Here are the headings in simple text format:
 
 👨‍💻 Authors
 [Avni Jain] — Full Stack Developer
-
+Thank you for the opportunity to work on this assignment!
 
 
 
