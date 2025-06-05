@@ -1,4 +1,4 @@
-This project is a CRM Campaign Management System that helps marketing teams generate personalized promotional messages for their users based on campaign details and targeting rules. It leverages Google's Gemini AI to dynamically create friendly, concise messages tailored for each customer segment.
+This project is a CRM Management System that helps marketing teams generate personalized promotional messages for their users based on campaign details and targeting rules. It leverages Google's Gemini AI to dynamically create friendly, concise messages tailored for each customer segment.
 
 🧠 Features
 📝 Create marketing campaigns with custom rules.
